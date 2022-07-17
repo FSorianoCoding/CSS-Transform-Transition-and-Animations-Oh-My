@@ -1,1 +1,6 @@
+button:hover {
+    color: ghostwhite;
+    transition: 2s;
+}
 
+/* didn't know how to make the transition to original color 2 seconds instead of instant*/
